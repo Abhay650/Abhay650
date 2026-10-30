@@ -50,7 +50,7 @@ I enjoy building practical applications using Python, Machine Learning, Generati
 
 **Achievement:** 24th rank among 200+ teams at InnoTech Hackathon 2025.
 
-[GitHub Repository](https://github.com/Abhay650/RakshaNeeti)
+[Live Demo](https://rakshaneeti.streamlit.app/) . [GitHub Repository](https://github.com/Abhay650/RakshaNeeti) 
 
 ### 2. Spider Bot — Obstacle Detection & Alert System
 **Python · YOLOv5 · PyTorch · OpenCV · pyttsx3**
@@ -95,11 +95,11 @@ I enjoy building practical applications using Python, Machine Learning, Generati
 
 **KIET Group of Institutions**, Ghaziabad, Uttar Pradesh  
 B.Tech — Electronics & Communication Engineering | October 2023 – June 2027  
-Percentage: **75%**
+
 
 **HAL School, Korwa**
-- Class XII (CBSE), 2022 — **80%**
-- Class X (CBSE), 2020 — **85%**
+- Class XII (CBSE), 2022 
+- Class X (CBSE), 2020 
 
 ## 📫 Connect With Me
 
