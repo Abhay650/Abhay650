@@ -9,7 +9,7 @@ B.Tech Electronics & Communication Engineering student (2027) at **KIET Group of
 
 I enjoy building practical applications using Python, Machine Learning, Generative AI, RAG, Computer Vision, and SQL.
 
-[LinkedIn](https://linkedin.com/in/abhay-gupta-80444b28a) · [LeetCode](https://leetcode.com/u/Abhay) · [Email](mailto:abhayhoops@gmail.com)
+[LinkedIn](https://linkedin.com/in/abhay-gupta-80444b28a)  · [Email](mailto:abhayhoops@gmail.com)
 
 </div>
 
@@ -105,8 +105,6 @@ B.Tech — Electronics & Communication Engineering | October 2023 – June 2027
 
 - **Email:** [abhayhoops@gmail.com](mailto:abhayhoops@gmail.com)
 - **LinkedIn:** [abhay-gupta-80444b28a](https://linkedin.com/in/abhay-gupta-80444b28a)
-- **LeetCode:** [Abhay](https://leetcode.com/u/Abhay)
-- **GitHub:** [Abhay650](https://github.com/Abhay650)
 
 ---
 
