@@ -86,10 +86,10 @@ I enjoy building practical applications using Python, Machine Learning, Generati
 ## 🏆 Achievements
 
 - 🥇 **24th rank** among 200+ teams — InnoTech Hackathon 2025.
-- 🏅 **5th rank** among 150+ teams — Smart India Hackathon (SIH) 2025, Department Level.
+- 🏅 **2nd rank** among 150+ teams — Smart India Hackathon (SIH) 2025, Department Level.
 - 🏀 **3rd rank in Basketball** — Varchas 2024, IIT Jodhpur.
 - 🏀 **2nd rank in Basketball** — SRM 2026.
-- 🏀 Professional basketball player at college level; developed teamwork, discipline, and leadership.
+
 
 ## 🎓 Education
 
